@@ -10,3 +10,4 @@
 
 - Added a minimal verification marker at `e2e/task374_repo_dotdir_playbook_marker.txt`.
 - Kept the marker isolated from runtime logic so it does not affect existing project behavior.
+- Opened PR: https://github.com/chlxydl/intern_debug_repo/pull/8.
