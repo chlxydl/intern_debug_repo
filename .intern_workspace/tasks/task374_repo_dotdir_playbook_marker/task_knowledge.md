@@ -1,6 +1,6 @@
 # task374_repo_dotdir_playbook_marker - Task Knowledge
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 ## Knowledge Entries
 
