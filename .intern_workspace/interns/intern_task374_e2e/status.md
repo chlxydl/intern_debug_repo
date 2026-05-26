@@ -1,13 +1,13 @@
 # intern_task374_e2e - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task374_e2e_metadata_branch -->
+<!-- METADATA:STATUS=Idle,TASK= -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | intern_task374_e2e |
-| Status | Working |
-| Current Task | task374_e2e_metadata_branch |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/5 |
+| Status | Idle |
+| Current Task |  |
+| PR | N/A |
 | Session | 1 |
 
 ## 最近进展
