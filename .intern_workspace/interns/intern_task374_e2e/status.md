@@ -12,4 +12,4 @@
 
 ## 最近进展
 
-- Session 1: 确认 metadata_branch 独立 checkout，创建代码 PR #5，并准备推送 status_branch metadata。
+- Session 1: 确认 metadata_branch 独立 checkout，创建代码 PR #5 和 status PR #6，metadata 已推送到 status_branch。

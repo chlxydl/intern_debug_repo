@@ -14,3 +14,4 @@
 - Created code branch `intern_task374_e2e/task374_e2e_metadata_branch` from `origin/master`.
 - Added and pushed `e2e/metadata_branch.txt`.
 - Opened code PR: https://github.com/chlxydl/intern_debug_repo/pull/5.
+- Pushed metadata to status branch and opened status PR: https://github.com/chlxydl/intern_debug_repo/pull/6.
