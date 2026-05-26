@@ -7,9 +7,9 @@
 | Name | intern_task374_e2e |
 | Status | Working |
 | Current Task | task374_e2e_repo_dotdir |
-| PR | pending |
+| PR | https://github.com/chlxydl/intern_debug_repo/pull/3 |
 | Session | 1 |
 
 ## 最近进展
 
-- Session 1: 创建 repo_dotdir E2E 分支并更新 `e2e/repo_dotdir.txt`，准备提交和创建 PR。
+- Session 1: 已创建 repo_dotdir E2E 分支、提交并推送代码和 metadata，PR: https://github.com/chlxydl/intern_debug_repo/pull/3。
