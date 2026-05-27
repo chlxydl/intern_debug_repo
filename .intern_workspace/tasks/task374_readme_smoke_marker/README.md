@@ -1,6 +1,6 @@
 # task374_readme_smoke_marker
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_task374_dot_s23 -->
 
 ## 背景
 
