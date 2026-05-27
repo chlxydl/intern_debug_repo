@@ -6,3 +6,4 @@
 
 - Target file for implementation: repository root `README.md`.
 - Required line: `repo_dotdir flow validated by intern_fresh_dot`.
+- Local environment has no `gh`/`hub` binary and no GitHub token, so automatic PR creation is unavailable from this checkout.

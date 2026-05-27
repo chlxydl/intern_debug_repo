@@ -7,9 +7,9 @@
 | Name | intern_fresh_dot |
 | Status | Working |
 | Current Task | task375_repo_dotdir_flow_validated |
-| PR | N/A |
+| PR | https://github.com/chlxydl/intern_debug_repo/pull/new/intern_fresh_dot/task375_repo_dotdir_flow_validated |
 | Session | 1 |
 
 ## 最近进展
 
-- Session 1: 已在 README.md 增加 `repo_dotdir flow validated by intern_fresh_dot`，准备推送并创建 PR。
+- Session 1: 已在 README.md 增加 `repo_dotdir flow validated by intern_fresh_dot` 并推送任务分支；本地缺少 `gh`/`hub` 和 GitHub token，无法自动创建真实 PR，已记录 PR 创建链接。
