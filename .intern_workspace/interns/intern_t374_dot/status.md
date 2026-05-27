@@ -7,6 +7,6 @@
 | Name | intern_t374_dot |
 | Status | Idle |
 | Current Task | |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/11 |
+| PR | N/A |
 | Session | 2 |
 | Recent Progress | PR #11 merged; task374_repo_dotdir_validation closed. |
