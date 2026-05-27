@@ -7,6 +7,6 @@
 | Name | intern_t374_dot |
 | Status | Working |
 | Current Task | task374_repo_dotdir_validation |
-| PR | N/A |
+| PR | https://github.com/chlxydl/intern_debug_repo/pull/11 |
 | Session | 1 |
-| Recent Progress | Added README validation line and prepared PR metadata. |
+| Recent Progress | Added README validation line and opened PR #11. |
