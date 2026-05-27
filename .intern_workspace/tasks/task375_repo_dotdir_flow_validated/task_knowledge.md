@@ -1,6 +1,6 @@
 # task375_repo_dotdir_flow_validated - Task Knowledge
 
-<!-- METADATA:SESSION=0 -->
+<!-- METADATA:SESSION=1 -->
 
 ## Knowledge Entries
 
