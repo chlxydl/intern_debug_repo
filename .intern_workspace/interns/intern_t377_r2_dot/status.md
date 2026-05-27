@@ -1,11 +1,11 @@
 # intern_t377_r2_dot - 状态
 
-<!-- METADATA:STATUS=Idle,TASK= -->
+<!-- METADATA:STATUS=Working,TASK=task377-r2-dot-185012 -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | intern_t377_r2_dot |
-| Status | Idle |
-| Current Task | |
-| PR | N/A |
+| Status | Working |
+| Current Task | task377-r2-dot-185012 |
+| PR | https://github.com/chlxydl/intern_debug_repo/pull/14 |
 | Session | 0 |

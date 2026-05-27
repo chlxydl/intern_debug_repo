@@ -1,4 +1,4 @@
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_t377_r2_dot -->
 
 # Task: task377-r2-dot-185012
 
