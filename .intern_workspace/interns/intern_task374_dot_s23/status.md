@@ -7,9 +7,9 @@
 | Name | intern_task374_dot_s23 |
 | Status | Working |
 | Current Task | task374_readme_smoke_marker |
-| PR | N/A |
+| PR | https://github.com/chlxydl/intern_debug_repo/pull/9 |
 | Session | 1 |
 
 ## 最近进展
 
-- Session 1: Added the README smoke marker and prepared task metadata updates for PR submission.
+- Session 1: Added the README smoke marker and opened PR https://github.com/chlxydl/intern_debug_repo/pull/9.
