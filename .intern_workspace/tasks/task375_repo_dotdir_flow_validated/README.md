@@ -1,6 +1,6 @@
 # task375_repo_dotdir_flow_validated
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_fresh_dot -->
 
 ## 背景
 
