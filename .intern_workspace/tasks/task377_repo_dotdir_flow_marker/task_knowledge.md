@@ -1,6 +1,6 @@
 # task377_repo_dotdir_flow_marker - Task Knowledge
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=3 -->
 
 ## Knowledge Entries
 

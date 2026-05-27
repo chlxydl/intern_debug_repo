@@ -1,6 +1,6 @@
 # task377_repo_dotdir_flow_marker
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_t377_repo_to_meta -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=intern_t377_repo_to_meta -->
 
 ## 背景
 
