@@ -1,6 +1,6 @@
 # task374_repo_dotdir_validation - Task Knowledge
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 ## Knowledge Entries
 

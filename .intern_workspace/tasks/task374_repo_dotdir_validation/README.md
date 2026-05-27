@@ -1,6 +1,6 @@
 # task374_repo_dotdir_validation
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_t374_dot -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=intern_t374_dot -->
 
 ## 背景
 
