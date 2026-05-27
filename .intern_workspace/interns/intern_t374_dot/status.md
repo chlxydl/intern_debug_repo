@@ -1,11 +1,11 @@
 # intern_t374_dot - 状态
 
-<!-- METADATA:STATUS=Idle,TASK= -->
+<!-- METADATA:STATUS=Working,TASK=task374_repo_dotdir_validation -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | intern_t374_dot |
-| Status | Idle |
-| Current Task | |
+| Status | Working |
+| Current Task | task374_repo_dotdir_validation |
 | PR | N/A |
 | Session | 0 |

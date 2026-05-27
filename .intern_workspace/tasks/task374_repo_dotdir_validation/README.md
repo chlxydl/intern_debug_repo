@@ -1,6 +1,6 @@
 # task374_repo_dotdir_validation
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_t374_dot -->
 
 ## 背景
 
