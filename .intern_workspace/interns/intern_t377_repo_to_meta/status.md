@@ -7,5 +7,5 @@
 | Name | intern_t377_repo_to_meta |
 | Status | Working |
 | Current Task | task377_repo_dotdir_flow_marker |
-| PR | N/A |
+| PR | https://github.com/chlxydl/intern_debug_repo/pull/12 |
 | Session | 0 |
