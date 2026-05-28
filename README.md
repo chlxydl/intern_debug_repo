@@ -9,3 +9,4 @@ task374-sw01-dot-015846
 task374-sw47-u1-dot
 task374-s49-mode1-dot
 task374-s50-mode1-dot
+task374-s50-mode2-meta
