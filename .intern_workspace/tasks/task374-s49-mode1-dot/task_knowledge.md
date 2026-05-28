@@ -1,6 +1,6 @@
 # task374-s49-mode1-dot - Knowledge
 
-<!-- METADATA:SESSION=0 -->
+<!-- METADATA:SESSION=1 -->
 
 ## Notes
 
