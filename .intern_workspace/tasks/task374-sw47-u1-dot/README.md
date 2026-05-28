@@ -1,6 +1,6 @@
 # task374-sw47-u1-dot
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_t374_sw47_u1_dot -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=intern_t374_sw47_u1_dot -->
 
 ## 背景
 
