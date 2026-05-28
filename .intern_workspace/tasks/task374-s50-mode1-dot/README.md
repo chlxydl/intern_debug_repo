@@ -1,6 +1,6 @@
 # task374-s50-mode1-dot
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=intern_s50_m1_dot -->
 
 ## 背景
 
