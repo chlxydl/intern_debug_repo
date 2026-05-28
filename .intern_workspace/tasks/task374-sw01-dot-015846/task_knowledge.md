@@ -1,6 +1,6 @@
 # task374-sw01-dot-015846 - Knowledge
 
-<!-- METADATA:SESSION=0 -->
+<!-- METADATA:SESSION=1 -->
 
 ## 已知信息
 

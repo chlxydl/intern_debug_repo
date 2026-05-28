@@ -1,6 +1,6 @@
 # task374-sw01-dot-015846
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=intern_t374_sw01_dot -->
 
 ## 背景
 
