@@ -1,6 +1,6 @@
 # task374_s50_mode2_meta
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_s50_m2_meta -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=intern_s50_m2_meta -->
 
 ## 背景
 
