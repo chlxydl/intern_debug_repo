@@ -1,4 +1,4 @@
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=intern_t377_final_dot -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=intern_t377_final_dot -->
 
 # Task: task377-final-dot-183214
 
