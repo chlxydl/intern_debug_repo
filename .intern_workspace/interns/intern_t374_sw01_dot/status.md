@@ -1,11 +1,12 @@
 # intern_t374_sw01_dot - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task374-sw01-dot-015846 -->
+<!-- METADATA:STATUS=Idle,TASK= -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | intern_t374_sw01_dot |
-| Status | Working |
-| Current Task | task374-sw01-dot-015846 |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/15 |
-| Session | 0 |
+| Status | Idle |
+| Current Task | |
+| PR | N/A |
+| Session | 1 |
+| Recent Progress | PR #15 已获主管允许 merge，完成 close metadata 并恢复空闲状态。 |
