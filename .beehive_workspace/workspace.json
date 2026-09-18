@@ -70,7 +70,7 @@
   "workspace_authority": "local",
   "user_visible": true,
   "local_enabled": true,
-  "generation": 1,
+  "generation": 3,
   "repo_root": "/opt/beehive-ci/state/state/v1/ci_f0003_525e35d72502/source",
   "metadata_path": "/opt/beehive-ci/state/state/v1/ci_f0003_525e35d72502/source/.beehive_workspace"
 }
