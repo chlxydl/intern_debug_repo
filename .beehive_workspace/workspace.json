@@ -1,0 +1,76 @@
+{
+  "kind": "workspace",
+  "version": 2,
+  "schema": "beehive.workspace.v2",
+  "workspace_alias": "ci_f0003_d89c140f7764",
+  "display_name": "CI F0003 20260919_000922_81ff3708_d583c21c14",
+  "provider": "github",
+  "provider_binding": {
+    "provider": "github",
+    "workspace_alias": "ci_f0003_d89c140f7764",
+    "repo_root": "/var/lib/beehive-ci/state/state/v1/ci_f0003_d89c140f7764/source",
+    "remote_name": "remote-0",
+    "remote_url": "git@github.com:chlxydl/intern_debug_repo.git",
+    "binding_ref": "github:chlxydl/intern_debug_repo",
+    "identity_digest": "sha256:3cf21af7373ad5390340620fb6a15a9cd88644a1182f3434b5440c948a9e3335",
+    "identity": {
+      "slug": "chlxydl/intern_debug_repo"
+    },
+    "status": "bound",
+    "generation": 1
+  },
+  "provider_injection": {
+    "terminology": {
+      "change_request": "PR",
+      "merge": "merge"
+    },
+    "create_command": {
+      "executable": "gh",
+      "arguments": [
+        "pr",
+        "create",
+        "--head",
+        "{source_branch}"
+      ]
+    },
+    "view_command": {
+      "executable": "gh",
+      "arguments": [
+        "pr",
+        "view",
+        "{request_id}"
+      ]
+    },
+    "merge_command": {
+      "executable": "gh",
+      "arguments": [
+        "pr",
+        "merge",
+        "{request_id}",
+        "--squash"
+      ]
+    },
+    "close_command": {
+      "executable": "gh",
+      "arguments": [
+        "pr",
+        "close",
+        "{request_id}"
+      ]
+    },
+    "error_guidance": []
+  },
+  "repo_url": "git@github.com:chlxydl/intern_debug_repo.git",
+  "source_kind": "remote",
+  "source_address": "git@github.com:chlxydl/intern_debug_repo.git",
+  "local_path": "/var/lib/beehive-ci/state/state/v1/ci_f0003_d89c140f7764/source",
+  "metadata_mode": "repo_dotdir",
+  "metadata_branch": "",
+  "metadata_cache_path": "",
+  "workspace_authority": "local",
+  "user_visible": true,
+  "local_enabled": true,
+  "generation": 1,
+  "repo_root": "/var/lib/beehive-ci/state/state/v1/ci_f0003_d89c140f7764/source",
+  "metadata_path": "/var/lib/beehive-ci/state/state/v1/ci_f0003_d89c140f7764/source/.beehive_workspace"
+}
