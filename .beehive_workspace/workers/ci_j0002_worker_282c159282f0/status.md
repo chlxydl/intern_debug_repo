@@ -1,6 +1,6 @@
 # ci_j0002_worker_282c159282f0 - 状态
 
-<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
+<!-- METADATA:STATUS=Working,TASK=task375_add_documentation_paragraph,PR=https://github.com/chlxydl/intern_debug_repo/pull/25 -->
 
 | 字段 | 值 |
 |------|-----|

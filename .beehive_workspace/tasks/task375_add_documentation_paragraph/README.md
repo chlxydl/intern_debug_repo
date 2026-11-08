@@ -1,6 +1,6 @@
 # task375_add_documentation_paragraph
 
-METADATA:STATUS=Created,ASSIGNEE=ci_j0002_worker_282c159282f0
+METADATA:STATUS=InProgress,ASSIGNEE=ci_j0002_worker_282c159282f0
 
 ## 目标
 
