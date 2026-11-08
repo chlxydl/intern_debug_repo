@@ -10,3 +10,5 @@ task374-sw47-u1-dot
 task374-s49-mode1-dot
 task374-s50-mode1-dot
 task374-s50-mode2-meta
+
+本项目的文档变更应在提交前完成构建检查，以确保内容能够被正常发布。
