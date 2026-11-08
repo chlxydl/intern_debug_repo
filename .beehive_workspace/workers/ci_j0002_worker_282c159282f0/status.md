@@ -13,3 +13,5 @@
 
 - Session 1: PR #21 已获批准并完成合并，任务已收口。
 - Session 1: PR #23 已关闭，任务已完成收口，代码未合并。
+- Session 2: 已接单 task_add_documentation_paragraph，PR #31 已打开。
+- Session 2: PR #31 已获批准并合并，任务完成。
