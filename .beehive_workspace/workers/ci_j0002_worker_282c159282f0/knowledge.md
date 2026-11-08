@@ -9,4 +9,5 @@
 - 2026-11-08: Working on task_doc_paragraph_build_20261108; PR #21.
 - 2026-11-08: PR #21 merged; task_doc_paragraph_build_20261108 completed.
 - 2026-11-08: PR #23 closed without merge; task_doc_paragraph_build_20261108_a17be4efd33e completed.
+- 2026-11-08: Accepted task_doc_paragraph_build_20261108_c3; PR #29 is open for document paragraph and build verification.
 
