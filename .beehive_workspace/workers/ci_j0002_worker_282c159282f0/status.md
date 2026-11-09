@@ -15,3 +15,5 @@
 - Session 1: PR #23 已关闭，任务已完成收口，代码未合并。
 - Session 2: 已接单 task_add_documentation_paragraph，PR #31 已打开。
 - Session 2: PR #31 已获批准并合并，任务完成。
+- Session 3: 已完成文档段落、构建检查并推送 PR #32，等待 merge。
+- Session 4: 主管批准合并 PR #32，已完成任务收口准备。
