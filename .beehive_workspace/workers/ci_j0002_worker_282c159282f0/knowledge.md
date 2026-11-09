@@ -14,6 +14,8 @@
 
 # Worker 知识
 
+本次接单：task_add_documentation_paragraph_6，PR #36 已打开，目标为新增文档段落并运行文档构建检查。
+
 本次接单：task_add_documentation_paragraph_2，PR #32 已打开，目标为新增文档段落并运行文档构建检查。
 
 PR #32 已获主管批准，准备合并。
@@ -35,3 +37,5 @@ Session 2: 主管批准合并 PR #34；任务收口后 Worker 回到 Idle。
 README 新增文档段落；git diff --check 与 Markdown 标题/链接检查通过。
 
 task_add_documentation_paragraph_5 的 PR #35 已合并；任务已完成，Worker 回到 Idle。
+
+task_add_documentation_paragraph_6 已完成；PR #36 squash merge 后 Worker 回到 Idle。
