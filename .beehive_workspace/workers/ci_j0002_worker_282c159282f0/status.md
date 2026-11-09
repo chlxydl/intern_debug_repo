@@ -29,3 +29,5 @@
 - Session 2: PR #39 已获批准并合并，task_add_documentation_paragraph_9 已完成，Worker 回到 Idle。
 - Session 1: 已接单 task_add_documentation_paragraph_10，PR #40 已打开。
 - Session 2: PR #40 已合并，task_add_documentation_paragraph_10 已完成，Worker 回到 Idle。
+- Session 1: 已接单 task_j0002_document_build，完成文档段落与构建检查，PR #41 已打开。
+- Session 2: PR #41 已合并，task_j0002_document_build 已完成，Worker 回到 Idle。
