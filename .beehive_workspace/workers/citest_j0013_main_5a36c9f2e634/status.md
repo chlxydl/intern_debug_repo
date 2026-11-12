@@ -1,12 +1,14 @@
 # citest_j0013_main_5a36c9f2e634 - 状态
 
-<!-- METADATA:STATUS=Idle,TASK=,PR= -->
+<!-- METADATA:STATUS=Working,TASK=task_j0013_a_5a36c9f2e634,PR=https://github.com/chlxydl/intern_debug_repo/pull/49 -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | citest_j0013_main_5a36c9f2e634 |
-| Status | Idle |
-| Current Task |  |
-| PR | N/A |
+| Status | Working |
+| Current Task | task_j0013_a_5a36c9f2e634 |
+| PR | https://github.com/chlxydl/intern_debug_repo/pull/49 |
 
 ## 最近进展
+
+- 2026-11-12：接受 `task_j0013_a_5a36c9f2e634`，已创建并验证 OPEN Pull Request #49。
