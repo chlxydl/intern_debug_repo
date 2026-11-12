@@ -1,6 +1,6 @@
 # Task: task_j0013_a_cc75f81ef928
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_j0013_main_cc75f81ef928 -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0013_main_cc75f81ef928 -->
 
 ## Objective
 
