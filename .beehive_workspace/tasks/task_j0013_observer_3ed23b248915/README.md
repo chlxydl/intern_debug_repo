@@ -1,6 +1,6 @@
 # task_j0013_observer_3ed23b248915
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_j0013_observer_3ed23b248915 -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_j0013_observer_3ed23b248915 -->
 
 ## Goal
 
