@@ -1,6 +1,6 @@
 # task_j0013_observer_5a36c9f2e634
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_j0013_observer_5a36c9f2e634 -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0013_observer_5a36c9f2e634 -->
 
 ## 目标
 
