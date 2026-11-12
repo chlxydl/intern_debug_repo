@@ -11,3 +11,4 @@
 
 - 任务分支：`citest_j0013_observer_4f0e7f989ccd/task_j0013_observer_4f0e7f989ccd`
 - 目标分支：`master`
+- Pull Request：#50（目标分支 `master`，当前状态 OPEN）
