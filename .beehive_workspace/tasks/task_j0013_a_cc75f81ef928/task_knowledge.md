@@ -1,6 +1,6 @@
 # task_j0013_a_cc75f81ef928 Task Knowledge
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 ## Scope
 
@@ -11,3 +11,4 @@
 
 - Source branch: `citest_j0013_main_cc75f81ef928/task_j0013_a_cc75f81ef928`.
 - Pull Request: #53, targeting `master` and verified OPEN before acceptance.
+- Session 2 supplied explicit merge permission; Pull Request #53 was squash merged with the exact-content artifact and closeout metadata.
