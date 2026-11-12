@@ -1,6 +1,6 @@
 # task_j0013_observer_cc75f81ef928 - Observer anchor
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_j0013_observer_cc75f81ef928 -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0013_observer_cc75f81ef928 -->
 
 ## Objective
 
