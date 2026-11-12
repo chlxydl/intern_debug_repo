@@ -1,6 +1,6 @@
 # task_j0013_observer_6015800a3de1
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0013_observer_6015800a3de1 -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_j0013_observer_6015800a3de1 -->
 
 ## Goal
 
