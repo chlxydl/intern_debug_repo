@@ -1,6 +1,6 @@
 # task_j0013_observer_4f0e7f989ccd
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0013_observer_4f0e7f989ccd -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_j0013_observer_4f0e7f989ccd -->
 
 ## 目标
 
@@ -10,4 +10,4 @@
 
 - 文件名与内容精确匹配用户要求。
 - 所有产品与 Working 状态改动均位于本任务分支。
-- Pull Request 保持 OPEN，任务保持 Working，等待用户明确合并授权。
+- Pull Request 在收到用户明确授权后完成合并，任务状态为 Completed，Worker 状态为 Idle。
