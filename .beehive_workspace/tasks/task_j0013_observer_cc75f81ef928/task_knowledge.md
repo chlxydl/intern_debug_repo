@@ -1,6 +1,6 @@
 # task_j0013_observer_cc75f81ef928 - Knowledge
 
-<!-- METADATA:SESSION=0 -->
+<!-- METADATA:SESSION=1 -->
 
 ## Scope
 
@@ -11,3 +11,8 @@
 
 - Branch: `citest_j0013_observer_cc75f81ef928/task_j0013_observer_cc75f81ef928`
 - Pull request: https://github.com/chlxydl/intern_debug_repo/pull/52
+
+## Verification
+
+- `j0013_observer_cc75f81ef928.txt` was validated as one regular file containing exactly one requested anchor line.
+- Session 1 recorded explicit authorization to squash-merge PR #52 and close the task as Completed.
