@@ -1,13 +1,13 @@
 # ci_j0002_worker_282c159282f0 - 状态
 
-<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
+<!-- METADATA:STATUS=Working,TASK=task_j0002_6e53fa1f3483,PR=https://github.com/chlxydl/intern_debug_repo/pull/71 -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | ci_j0002_worker_282c159282f0 |
-| Status | Idle |
-| Current Task |  |
-| PR | N/A |
+| Status | Working |
+| Current Task | task_j0002_6e53fa1f3483 |
+| PR | https://github.com/chlxydl/intern_debug_repo/pull/71 |
 
 ## 最近进展
 
