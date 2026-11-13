@@ -3,13 +3,13 @@
   "version": 1,
   "workspace_alias": "intern_debug_repo",
   "name": "citest_j0024_47827236a5f7",
-  "status": "active",
+  "status": "deleted",
   "team_lead": "citest_j0024_47827236a5f7_lead",
   "workers": [
     "citest_j0024_47827236a5f7_worker_1",
     "citest_j0024_47827236a5f7_worker_2"
   ],
   "created_at": "2026-11-13T13:53:16+00:00",
-  "updated_at": "2026-11-13T13:53:16+00:00",
-  "generation": 1
+  "updated_at": "2026-11-13T17:26:59+00:00",
+  "generation": 2
 }
