@@ -1,12 +1,14 @@
 # citest_j0013_main_cf242c8cf221 - 状态
 
-<!-- METADATA:STATUS=Idle,TASK=,PR= -->
+<!-- METADATA:STATUS=Working,TASK=task_j0013_a_cf242c8cf221,PR=https://github.com/chlxydl/intern_debug_repo/pull/59 -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | citest_j0013_main_cf242c8cf221 |
-| Status | Idle |
-| Current Task |  |
-| PR | N/A |
+| Status | Working |
+| Current Task | task_j0013_a_cf242c8cf221 |
+| PR | https://github.com/chlxydl/intern_debug_repo/pull/59 |
 
 ## 最近进展
+
+- Session 1：已接受 `task_j0013_a_cf242c8cf221`，PR #59 已创建并确认 OPEN。
