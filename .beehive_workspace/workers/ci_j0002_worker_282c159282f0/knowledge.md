@@ -75,3 +75,5 @@ task_j0002_2684c04b0b4b：PR #61 已合并，任务已完成，Worker 回到 Idl
 本次接单：task_j0002_870fdcfa2add，PR #62 已打开；目标为新增文档段落并运行文档构建检查。
 
 task_j0002_870fdcfa2add：README 文档段落已完成，Markdown 文档构建检查通过，PR #62 等待 merge。
+
+task_j0002_870fdcfa2add：PR #62 已 squash merge，任务已完成，Worker 回到 Idle。
