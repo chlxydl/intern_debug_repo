@@ -8,7 +8,7 @@
   "provider_binding": {
     "provider": "github",
     "workspace_alias": "ci_j0002_5ef01b3a2972",
-    "repo_root": "/opt/beehive-ci/state/state/v1/ci_j0002_5ef01b3a2972/source",
+    "repo_root": "/var/lib/beehive-ci/state/state/v1/ci_j0002_5ef01b3a2972/source",
     "remote_name": "remote-0",
     "remote_url": "git@github.com:chlxydl/intern_debug_repo.git",
     "binding_ref": "github:chlxydl/intern_debug_repo",
@@ -63,7 +63,7 @@
   "repo_url": "git@github.com:chlxydl/intern_debug_repo.git",
   "source_kind": "remote",
   "source_address": "git@github.com:chlxydl/intern_debug_repo.git",
-  "local_path": "/opt/beehive-ci/state/state/v1/ci_j0002_5ef01b3a2972/source",
+  "local_path": "/var/lib/beehive-ci/state/state/v1/ci_j0002_5ef01b3a2972/source",
   "metadata_mode": "repo_dotdir",
   "metadata_branch": "",
   "metadata_cache_path": "",
@@ -71,6 +71,6 @@
   "user_visible": true,
   "local_enabled": true,
   "generation": 1,
-  "repo_root": "/opt/beehive-ci/state/state/v1/ci_j0002_5ef01b3a2972/source",
-  "metadata_path": "/opt/beehive-ci/state/state/v1/ci_j0002_5ef01b3a2972/source/.beehive_workspace"
+  "repo_root": "/var/lib/beehive-ci/state/state/v1/ci_j0002_5ef01b3a2972/source",
+  "metadata_path": "/var/lib/beehive-ci/state/state/v1/ci_j0002_5ef01b3a2972/source/.beehive_workspace"
 }
