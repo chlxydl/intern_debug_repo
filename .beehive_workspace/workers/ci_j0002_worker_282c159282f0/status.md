@@ -11,6 +11,10 @@
 
 ## 最近进展
 
+- Session 1: PR #61 已合并，task_j0002_2684c04b0b4b 已完成，Worker 回到 Idle。
+
+- Session 1: 已接单 task_j0002_2684c04b0b4b，PR #61 已打开；新增 README 文档段落并完成文档构建检查，等待 merge。
+
 - Session 1: PR #45 已合并，task_j0002_db03d6421716 已完成，Worker 回到 Idle。
 
 - Session 1: PR #21 已获批准并完成合并，任务已收口。
