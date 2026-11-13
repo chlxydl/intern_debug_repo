@@ -1,12 +1,12 @@
 # citest_j0024_47827236a5f7_worker_1 - 状态
 
-<!-- METADATA:STATUS=Idle,TASK=,PR= -->
+<!-- METADATA:STATUS=Working,TASK=task_j0024_a_47827236a5f7,PR=PENDING -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | citest_j0024_47827236a5f7_worker_1 |
-| Status | Idle |
-| Current Task |  |
-| PR | N/A |
+| Status | Working |
+| Current Task | task_j0024_a_47827236a5f7 |
+| PR | PENDING |
 
 ## 最近进展
