@@ -11,4 +11,4 @@
 
 ## 最近进展
 
-- 已接单并打开 PR #56；任务保持 Working，等待明确 merge 授权。
+- Session 2：已完成普通 Working 检查点；任务保持 Working，PR #56 保持 OPEN。
