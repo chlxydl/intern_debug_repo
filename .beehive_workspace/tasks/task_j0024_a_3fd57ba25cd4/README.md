@@ -4,3 +4,5 @@
 
 Create the business file j0024-a-3fd57ba25cd4.txt. The PR must contain exactly the six canonical files specified in the assignment: this task's README.md, history_log.md, task_knowledge.md; the assigned Worker's status.md and knowledge.md; and the business file. No other business files.
 
+Session 1 rework: the task branch is based on default branch HEAD 035142593841e97c7e8e45a19b9ee08ff5e9380c.
+
