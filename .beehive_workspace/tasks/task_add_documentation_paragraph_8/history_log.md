@@ -1,6 +1,6 @@
 # task_add_documentation_paragraph_8 history
 
-<!-- METADATA:SESSION=3 -->
+<!-- METADATA:SESSION=4 -->
 
 创建任务并分配给 ci_j0002_worker_282c159282f0。
 
@@ -9,3 +9,5 @@
 Session 2：复核 PR #38 仍为 OPEN，任务分支与目标分支正确，继续等待 merge。
 
 Session 3：在新任务创建前确认 PR #38 仍保持 OPEN，记录已同步。
+
+Session 4：task072 只读审计确认本任务与 PR #38 均为历史 J0002 CI fixture，assigned Worker 已 Idle 且 task/PR cleared；独立 cleanup PR 将任务收口为 Completed，不修改 Worker。cleanup merge 后 PR #38 仅评论并关闭，保持 merged=false 与来源分支不变。
