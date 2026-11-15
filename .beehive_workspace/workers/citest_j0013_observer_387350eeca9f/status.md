@@ -12,3 +12,4 @@
 ## 最近进展
 
 - 已接受 `task_j0013_observer_387350eeca9f`，Pull Request #85 保持开放。
+- Session 1 完成普通 Working checkpoint；已复核任务分支、锚点文件与 Pull Request 状态。
