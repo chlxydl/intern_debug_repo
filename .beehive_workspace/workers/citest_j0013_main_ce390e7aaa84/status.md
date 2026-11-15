@@ -12,3 +12,4 @@
 ## 最近进展
 
 - 已接受任务并创建 Pull Request #80；PR 已验证为 OPEN。
+- Session 2 完成普通 Working checkpoint：复核制品内容与远端任务分支一致，Pull Request #80 保持 OPEN 且未合并。
