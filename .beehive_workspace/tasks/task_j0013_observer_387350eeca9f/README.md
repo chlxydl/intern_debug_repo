@@ -1,6 +1,6 @@
 # task_j0013_observer_387350eeca9f
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0013_observer_387350eeca9f -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_j0013_observer_387350eeca9f -->
 
 ## 目标
 
@@ -10,4 +10,4 @@
 
 - 文件名为 `j0013_observer_387350eeca9f.txt`。
 - 文件内容严格匹配用户给定的 observer anchor。
-- 任务保持 Working，Pull Request 保持 OPEN，等待后续明确授权后再合并。
+- 获得明确授权后通过 Pull Request #85 合并，并完成任务收口。
