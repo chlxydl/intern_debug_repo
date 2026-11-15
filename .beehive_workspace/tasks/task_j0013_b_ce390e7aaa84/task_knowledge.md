@@ -1,6 +1,6 @@
 # Task knowledge
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 The artifact content must match exactly, and the pull request must remain open and unmerged.
 

@@ -15,3 +15,4 @@
 - Session 2 完成普通 Working checkpoint：复核制品内容与远端任务分支一致，Pull Request #80 保持 OPEN 且未合并。
 - Session 3 收到明确合并许可；Pull Request #80 已通过 squash merge 完成，任务收口为 Completed。
 - Accepted `task_j0013_b_ce390e7aaa84` and verified Pull Request #81 is OPEN.
+- Session 2 ordinary Working checkpoint completed: artifact and remote task branch verified; Pull Request #81 remains OPEN and unmerged.
