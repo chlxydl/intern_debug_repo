@@ -3,7 +3,7 @@
   "version": 2,
   "schema": "beehive.workspace.v2",
   "workspace_alias": "intern_debug_repo",
-  "display_name": "citest_j0024_20261117_050847_8748d9d4_bf903d2141",
+  "display_name": "citest_j0024_20261117_053408_c2ff06d0_8e21364280",
   "provider": "github",
   "provider_binding": {
     "provider": "github",
