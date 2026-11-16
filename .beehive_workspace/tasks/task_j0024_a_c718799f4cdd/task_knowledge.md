@@ -1,8 +1,5 @@
 # task_j0024_a_c718799f4cdd knowledge
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=0 -->
 
-## Contract
-
-- Assignee: `citest_j0024_c718799f4cdd_worker_1`
-- Acceptance: 从当前同一业务基线独立开展；只能修改 j0024-a-c718799f4cdd.txt；文件必须包含 J0024_ASSIGN_A_C718799F4CDD；完成后报告可审查；禁止集成。
+验收：指定文件存在并包含要求字符串，且交付范围无其他业务文件变更。
