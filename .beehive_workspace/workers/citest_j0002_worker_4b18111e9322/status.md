@@ -1,12 +1,14 @@
 # citest_j0002_worker_4b18111e9322 - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_j0002_4b18111e9322,PR=https://github.com/chlxydl/intern_debug_repo/pull/112 -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | citest_j0002_worker_4b18111e9322 |
-| Status | Working |
-| Current Task | task_j0002_4b18111e9322 |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/112 |
+| Status | Idle |
+| Current Task |  |
+| PR | N/A |
 
 ## 最近进展
+
+任务已合并至 `master`，PR #112 已完成，Worker 恢复 Idle。
