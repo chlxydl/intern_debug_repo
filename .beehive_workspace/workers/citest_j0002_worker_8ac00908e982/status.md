@@ -5,9 +5,9 @@
 | 字段 | 值 |
 |------|-----|
 | Name | citest_j0002_worker_8ac00908e982 |
-| Status | Working |
-| Current Task | task_j0002_8ac00908e982 |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/103 |
+| Status | Idle |
+| Current Task |  |
+| PR | N/A |
 
 ## 最近进展
 
