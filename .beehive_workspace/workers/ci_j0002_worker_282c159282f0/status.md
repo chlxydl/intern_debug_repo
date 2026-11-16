@@ -1,15 +1,17 @@
 # ci_j0002_worker_282c159282f0 - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_j0002_216bf4676072,PR=https://github.com/chlxydl/intern_debug_repo/pull/93 -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | ci_j0002_worker_282c159282f0 |
-| Status | Working |
-| Current Task | task_j0002_216bf4676072 |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/93 |
+| Status | Idle |
+| Current Task |  |
+| PR | N/A |
 
 ## 最近进展
+
+- Session 1: 主管批准合并，PR #93 已合并；task_j0002_216bf4676072 已完成，Worker 回到 Idle。
 
 - Session 1: 已接单 task_j0002_216bf4676072，新增文档段落并完成文档构建检查，PR #93 已打开，等待 merge。
 
