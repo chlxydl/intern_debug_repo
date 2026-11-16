@@ -6,4 +6,4 @@
 
 验证：`git diff --check` 通过；PR #94 当前为 OPEN。
 
-收口准备：主管已明确批准合并，PR #94 合并后任务完成且 Worker 回到 Idle。
+收口完成：PR #94 已合并，任务为 Completed，Worker 为 Idle，task/PR 字段已清空。

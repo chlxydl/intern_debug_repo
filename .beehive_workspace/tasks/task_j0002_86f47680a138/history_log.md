@@ -6,4 +6,4 @@
 
 已在任务分支新增文档段落，运行 `git diff --check` 通过，提交并创建 OPEN PR #94，等待 merge。
 
-主管已批准 merge；任务状态收口为 Completed，Worker 状态清空并回到 Idle，等待 PR #94 合并完成。
+主管已批准 merge；PR #94 已合并，任务状态收口为 Completed，Worker 状态清空并回到 Idle。
