@@ -1,13 +1,13 @@
 # citest_j0013_main_75b95efbbc64 - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_j0013_b_75b95efbbc64,PR=https://github.com/chlxydl/intern_debug_repo/pull/91 -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | citest_j0013_main_75b95efbbc64 |
-| Status | Working |
-| Current Task | task_j0013_b_75b95efbbc64 |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/91 |
+| Status | Idle |
+| Current Task |  |
+| PR | N/A |
 
 ## 最近进展
 
@@ -16,3 +16,4 @@
 - Session 2 获得明确合并许可；Pull Request #90 使用 squash merge 完成任务收口。
 - Accepted `task_j0013_b_75b95efbbc64`; Pull Request #91 was created and verified as OPEN.
 - Session 1 ordinary Working checkpoint completed; the remote artifact matches and Pull Request #91 remains OPEN and unmerged.
+- Session 2 received explicit merge permission; Pull Request #91 was squash-merged to complete the task.
