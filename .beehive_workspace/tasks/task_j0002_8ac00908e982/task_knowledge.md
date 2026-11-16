@@ -1,6 +1,6 @@
 # task_j0002_8ac00908e982 knowledge
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 ## Contract
 
@@ -16,3 +16,7 @@
 
 - 已在 `README.md` 新增文档交付说明段落。
 - 检查通过：`git diff --check`；Markdown 代码围栏与链接目标检查通过。
+
+## Session 2
+
+- PR #103 已合并至 `master`，任务正式收尾。

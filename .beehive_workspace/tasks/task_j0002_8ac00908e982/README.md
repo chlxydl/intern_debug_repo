@@ -1,6 +1,6 @@
 # task_j0002_8ac00908e982
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0002_worker_8ac00908e982 -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_j0002_worker_8ac00908e982 -->
 
 ## Summary
 
