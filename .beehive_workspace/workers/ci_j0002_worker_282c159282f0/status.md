@@ -1,6 +1,6 @@
 # ci_j0002_worker_282c159282f0 - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_j0002_ac15fc8ce1a1,PR=https://github.com/chlxydl/intern_debug_repo/pull/95 -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
@@ -10,6 +10,8 @@
 | PR | N/A |
 
 ## 最近进展
+
+- Session 1: PR #95 已合并，task_j0002_ac15fc8ce1a1 已完成收口，Worker 回到 Idle。
 
 - Session 1: 已接单 task_j0002_ac15fc8ce1a1，新增 README 文档段落并完成 `git diff --check`，PR #95 已打开，等待 merge。
 
