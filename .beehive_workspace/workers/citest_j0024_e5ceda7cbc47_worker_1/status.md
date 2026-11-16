@@ -1,6 +1,6 @@
 # citest_j0024_e5ceda7cbc47_worker_1 - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_j0024_a_e5ceda7cbc47,PR=https://github.com/chlxydl/intern_debug_repo/pull/110 -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
@@ -13,3 +13,4 @@
 
 
 - Session 1：已基于最新 origin/master 更新 PR #110，保留 B 任务三份定义，A 业务文件及标记不变。
+- Session 2：PR #110 已合并，任务已完成，Worker 恢复 Idle。

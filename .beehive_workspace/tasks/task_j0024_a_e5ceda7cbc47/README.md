@@ -1,6 +1,6 @@
 # task_j0024_a_e5ceda7cbc47
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_j0024_e5ceda7cbc47_worker_1,REQUEST_ID=lead-j0024-create-a-e5ceda7cbc47 -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_j0024_e5ceda7cbc47_worker_1 -->
 
 ## Summary
 
