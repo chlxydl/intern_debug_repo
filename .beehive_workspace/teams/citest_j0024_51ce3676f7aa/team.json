@@ -1,0 +1,15 @@
+{
+  "kind": "beehive.workspace-team",
+  "version": 1,
+  "workspace_alias": "intern_debug_repo",
+  "name": "citest_j0024_51ce3676f7aa",
+  "status": "active",
+  "team_lead": "citest_j0024_51ce3676f7aa_lead",
+  "workers": [
+    "citest_j0024_51ce3676f7aa_worker_1",
+    "citest_j0024_51ce3676f7aa_worker_2"
+  ],
+  "created_at": "2026-11-17T22:56:33+00:00",
+  "updated_at": "2026-11-17T22:56:33+00:00",
+  "generation": 1
+}
