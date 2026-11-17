@@ -1,7 +1,8 @@
 # task_j0013_observer_af79f7da053c history
 
-<!-- METADATA:SESSION=0 -->
+<!-- METADATA:SESSION=1 -->
 
-## Definition
+## Session 1
 
-- Created and assigned to `citest_j0013_observer_af79f7da053c` for implementation and review delivery.
+- Accepted by `citest_j0013_observer_af79f7da053c`.
+- Created task branch `citest_j0013_observer_af79f7da053c/task_j0013_observer_af79f7da053c` and opened PR #141 targeting `master`.
