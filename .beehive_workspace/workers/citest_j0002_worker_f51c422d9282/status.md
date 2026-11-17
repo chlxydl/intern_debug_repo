@@ -1,14 +1,14 @@
 # citest_j0002_worker_f51c422d9282 - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_j0002_f51c422d9282,PR=https://github.com/chlxydl/intern_debug_repo/pull/133 -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | citest_j0002_worker_f51c422d9282 |
-| Status | Working |
-| Current Task | task_j0002_f51c422d9282 |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/133 |
+| Status | Idle |
+| Current Task |  |
+| PR | N/A |
 
 ## 最近进展
 
-已接单，任务分支与 PR 已创建。
+任务已完成合并，Worker 已恢复空闲，可接受下一项工作。
