@@ -1,6 +1,6 @@
 # task_j0024_b_b03735a9c10c
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_j0024_b03735a9c10c_worker_2 -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0024_b03735a9c10c_worker_2 -->
 
 ## 目标
 
