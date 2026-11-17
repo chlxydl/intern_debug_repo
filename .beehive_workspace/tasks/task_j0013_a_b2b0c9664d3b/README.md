@@ -1,6 +1,6 @@
 # task_j0013_a_b2b0c9664d3b
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0013_main_b2b0c9664d3b -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_j0013_main_b2b0c9664d3b -->
 
 ## Summary
 
@@ -12,4 +12,4 @@ Repository root contains j0013_a_b2b0c9664d3b.txt as a regular file whose exact 
 
 ## Progress
 
-Accepted by `citest_j0013_main_b2b0c9664d3b`; the artifact is implemented and byte-for-byte verified in PR #130, which is ready for review and remains unintegrated.
+Completed after review; the byte-for-byte verified artifact was integrated through PR #130.
