@@ -11,3 +11,9 @@
 
 - Task branch: `citest_j0013_observer_6726d3959f13/task_j0013_observer_6726d3959f13`
 - Pull request: https://github.com/chlxydl/intern_debug_repo/pull/128
+
+## Verification
+
+- The requested file is a regular non-symlink file at the repository root.
+- Its content is exactly the required anchor line followed by one newline (39 bytes total).
+- The delivery remains on the open task PR and has not been integrated.

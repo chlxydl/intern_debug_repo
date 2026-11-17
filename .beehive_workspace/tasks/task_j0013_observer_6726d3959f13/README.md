@@ -13,4 +13,4 @@ Repository root contains j0013_observer_6726d3959f13.txt as a regular file whose
 ## Delivery
 
 - Pull request: https://github.com/chlxydl/intern_debug_repo/pull/128
-- Status: In progress
+- Status: Ready for review
