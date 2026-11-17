@@ -5,3 +5,7 @@
 ## Session 1
 
 - Created and assigned to `citest_j0024_c63f0b8ff6d6_worker_1` by request `create-task_j0024_a_c63f0b8ff6d6-c63f0b8ff6d6`.
+
+## Session 2
+
+- Accepted by `citest_j0024_c63f0b8ff6d6_worker_1`; PR #121 opened for implementation.
