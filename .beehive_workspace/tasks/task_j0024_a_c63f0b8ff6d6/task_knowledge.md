@@ -1,6 +1,6 @@
 # task_j0024_a_c63f0b8ff6d6 knowledge
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 ## Contract
 
