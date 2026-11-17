@@ -1,6 +1,6 @@
 # task_j0024_a_cac6af09d001 history
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 ## Session 1
 
@@ -10,3 +10,7 @@
 
 - Accepted assignment and opened PR #120.
 - Added only `j0024-a-cac6af09d001.txt` with `J0024_ASSIGN_A_CAC6AF09D001`.
+
+## Session 2 收口
+
+- PR #120 已合并；任务完成，Worker 恢复 Idle。
