@@ -1,6 +1,6 @@
 # task_j0024_b_8b7c8882e1bd knowledge
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 ## Session 2
 

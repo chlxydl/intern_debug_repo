@@ -1,12 +1,14 @@
 # citest_j0024_8b7c8882e1bd_worker_2 - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_j0024_b_8b7c8882e1bd,PR=https://github.com/chlxydl/intern_debug_repo/pull/125 -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | citest_j0024_8b7c8882e1bd_worker_2 |
-| Status | Working |
-| Current Task | task_j0024_b_8b7c8882e1bd |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/125 |
+| Status | Idle |
+| Current Task |  |
+| PR | N/A |
 
 ## 最近进展
+
+任务已合并（PR #125），收口完成，Worker 恢复 Idle。
