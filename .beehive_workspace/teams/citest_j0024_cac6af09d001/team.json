@@ -1,0 +1,15 @@
+{
+  "kind": "beehive.workspace-team",
+  "version": 1,
+  "workspace_alias": "ci_f0011_dotdir_f2823a7c5454",
+  "name": "citest_j0024_cac6af09d001",
+  "status": "active",
+  "team_lead": "citest_j0024_cac6af09d001_lead",
+  "workers": [
+    "citest_j0024_cac6af09d001_worker_1",
+    "citest_j0024_cac6af09d001_worker_2"
+  ],
+  "created_at": "2026-11-17T03:09:12+00:00",
+  "updated_at": "2026-11-17T03:09:12+00:00",
+  "generation": 1
+}
