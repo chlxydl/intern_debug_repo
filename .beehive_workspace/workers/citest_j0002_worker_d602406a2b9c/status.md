@@ -1,6 +1,6 @@
 # citest_j0002_worker_d602406a2b9c - 状态
 
-<!-- METADATA:STATUS=Idle,TASK=,PR= -->
+<!-- METADATA:STATUS=Working,TASK=task_j0002_d602406a2b9c,PR=https://github.com/chlxydl/intern_debug_repo/pull/123 -->
 
 | 字段 | 值 |
 |------|-----|
