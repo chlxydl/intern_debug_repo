@@ -2,6 +2,10 @@
 
 <!-- METADATA:SESSION=1 -->
 
+## Session 2
+
+- Working branch: `citest_j0024_8b7c8882e1bd_worker_2/task_j0024_b_8b7c8882e1bd`; PR: https://github.com/chlxydl/intern_debug_repo/pull/125.
+
 ## Contract
 
 - Assignee: `citest_j0024_8b7c8882e1bd_worker_2`
