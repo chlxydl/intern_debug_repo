@@ -1,6 +1,6 @@
 # task_j0002_9c2597cb5ca3
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_j0002_worker_9c2597cb5ca3,REQUEST_ID=task_j0002_9c2597cb5ca3-create -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0002_worker_9c2597cb5ca3 -->
 
 ## Summary
 
