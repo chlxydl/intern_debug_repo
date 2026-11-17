@@ -6,4 +6,4 @@
 
 已接单并创建任务分支与 PR #146，进入 InProgress。
 
-Session 1：经授权确认 PR #146 可合并，已完成合并并同步远端 master，任务收口为 Completed。
+Session 1：PR #146 已合并，任务收口为 Completed。
