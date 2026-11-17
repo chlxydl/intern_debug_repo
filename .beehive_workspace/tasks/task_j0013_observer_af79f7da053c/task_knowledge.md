@@ -1,6 +1,6 @@
 # task_j0013_observer_af79f7da053c knowledge
 
-<!-- METADATA:SESSION=2 -->
+<!-- METADATA:SESSION=3 -->
 
 ## Contract
 
