@@ -1,14 +1,14 @@
 # citest_j0002_worker_e1d704d95b9d - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_j0002_e1d704d95b9d,PR=https://github.com/chlxydl/intern_debug_repo/pull/124 -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | citest_j0002_worker_e1d704d95b9d |
-| Status | Working |
-| Current Task | task_j0002_e1d704d95b9d |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/124 |
+| Status | Idle |
+| Current Task |  |
+| PR | N/A |
 
 ## 最近进展
 
-- 已创建任务分支与 PR，开始新增文档段落。
+- PR #124 已获授权，准备合并并完成任务收尾。
