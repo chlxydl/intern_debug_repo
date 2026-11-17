@@ -1,6 +1,6 @@
 # task_j0024_b_e3f89b1dae0e history
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 ## Session 1
 
@@ -10,3 +10,8 @@
 
 - Accepted assignment on branch `citest_j0024_e3f89b1dae0e_worker_2/task_j0024_b_e3f89b1dae0e`.
 - Created PR #116; added only `j0024-b-e3f89b1dae0e.txt` with the required marker.
+
+## Session 2 Closeout
+
+- PR #116 was merged after the authorized ordering with PR #117.
+- Canonical task projection completed; Worker returned to Idle.
