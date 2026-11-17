@@ -1,6 +1,6 @@
 # task_j0013_a_af79f7da053c
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_j0013_main_af79f7da053c -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0013_main_af79f7da053c -->
 
 ## Summary
 
