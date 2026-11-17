@@ -1,6 +1,6 @@
 # task_j0002_d602406a2b9c knowledge
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 ## Contract
 
@@ -16,3 +16,7 @@
 
 - Documentation paragraph added to `README.md`.
 - Validation passed with `git diff --check` and a Markdown fenced-block structure check.
+
+## Session 2
+
+- Delivery merged into `master`; no additional persistent knowledge identified.
