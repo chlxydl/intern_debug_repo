@@ -1,6 +1,6 @@
 # task_j0024_b_c1cb93afd688 knowledge
 
-<!-- METADATA:SESSION=0 -->
+<!-- METADATA:SESSION=1 -->
 
 接单记录：PR #137 已创建并保持 OPEN；业务变更仅限 `j0024-b-c1cb93afd688.txt`。
 
