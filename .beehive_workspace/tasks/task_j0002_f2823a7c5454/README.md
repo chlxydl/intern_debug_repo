@@ -1,6 +1,6 @@
 # task_j0002_f2823a7c5454
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0002_worker_f2823a7c5454 -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_j0002_worker_f2823a7c5454 -->
 
 ## Summary
 
@@ -13,3 +13,8 @@
 ## Progress
 
 - PR: https://github.com/chlxydl/intern_debug_repo/pull/118
+
+## Completion
+
+- PR #118 已 squash merge 至 `master`。
+- 文档构建检查 `git diff --check` 已通过。
