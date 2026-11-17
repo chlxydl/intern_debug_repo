@@ -11,3 +11,8 @@
 
 - Working branch: `citest_j0002_worker_d602406a2b9c/task_j0002_d602406a2b9c`.
 - Review URL: https://github.com/chlxydl/intern_debug_repo/pull/123
+
+## Session 3
+
+- Documentation paragraph added to `README.md`.
+- Validation passed with `git diff --check` and a Markdown fenced-block structure check.

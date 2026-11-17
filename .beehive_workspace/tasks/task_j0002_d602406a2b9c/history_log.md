@@ -10,3 +10,8 @@
 
 - Accepted task on branch `citest_j0002_worker_d602406a2b9c/task_j0002_d602406a2b9c`.
 - Opened PR https://github.com/chlxydl/intern_debug_repo/pull/123.
+
+## Session 3
+
+- Added the requested documentation paragraph to `README.md`.
+- Checks passed: `git diff --check`; Markdown fenced-block structure check.
