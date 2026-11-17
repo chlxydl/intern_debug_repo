@@ -10,3 +10,4 @@
 | PR | https://github.com/chlxydl/intern_debug_repo/pull/150 |
 
 ## 最近进展
+- Session 1 公开收口复核完成：业务标记校验通过，PR #150 保持 OPEN 且可审查；未合并、未集成。
