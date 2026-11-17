@@ -1,6 +1,6 @@
 # task_j0013_b_af79f7da053c knowledge
 
-<!-- METADATA:SESSION=2 -->
+<!-- METADATA:SESSION=3 -->
 
 ## Contract
 
@@ -8,3 +8,4 @@
 - Acceptance: repository root contains `j0013_b_af79f7da053c.txt` as one regular file whose exact content is `BEEHIVE_CI_J0013_ARTIFACT_B_AF79F7DA053C` followed by one newline; delivery is pushed to the task branch and exposed by an open pull request without merge.
 - Execution branch: `citest_j0013_main_af79f7da053c/task_j0013_b_af79f7da053c`
 - Pull Request: #143, targeting `master`.
+- Session 3 received explicit integration authorization; Pull Request #143 completed the task using squash merge.

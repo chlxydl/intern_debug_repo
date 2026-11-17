@@ -1,13 +1,13 @@
 # citest_j0013_main_af79f7da053c - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_j0013_b_af79f7da053c,PR=https://github.com/chlxydl/intern_debug_repo/pull/143 -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | citest_j0013_main_af79f7da053c |
-| Status | Working |
-| Current Task | task_j0013_b_af79f7da053c |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/143 |
+| Status | Idle |
+| Current Task |  |
+| PR | N/A |
 
 ## 最近进展
 
@@ -16,3 +16,4 @@
 - Session 3 收到明确 integration 授权；Pull Request #142 已通过 squash merge 完成，任务收口为 Completed。
 - Accepted cycle-b task `task_j0013_b_af79f7da053c`; created and verified Pull Request #143 as OPEN.
 - Session 2 completed an ordinary Working checkpoint: revalidated exact artifact bytes and the published task branch; Pull Request #143 remains OPEN and unmerged.
+- Session 3 received explicit integration authorization; Pull Request #143 completed the task through squash merge and the Worker returned to Idle.
