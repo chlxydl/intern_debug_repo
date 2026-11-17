@@ -1,6 +1,6 @@
 # task_j0013_observer_5e0f211d98be
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_j0013_observer_5e0f211d98be,REQUEST_ID=j0013-observer-5e0f211d98be-create-v1 -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_j0013_observer_5e0f211d98be -->
 
 ## Summary
 
