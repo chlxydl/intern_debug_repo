@@ -11,4 +11,4 @@
 
 ## 最近进展
 
-- 已完成 cycle-a artifact 实现与逐字节验证；PR #130 已更新，等待审查且尚未集成。
+- Session 2 Working checkpoint 已通过：artifact、远端任务分支和 OPEN PR #130 均已复核，尚未集成。
