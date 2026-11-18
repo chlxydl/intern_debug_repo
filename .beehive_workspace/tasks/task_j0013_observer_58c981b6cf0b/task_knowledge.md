@@ -1,6 +1,6 @@
 # task_j0013_observer_58c981b6cf0b - 知识
 
-<!-- METADATA:SESSION=0 -->
+<!-- METADATA:SESSION=1 -->
 
 ## 约束
 
