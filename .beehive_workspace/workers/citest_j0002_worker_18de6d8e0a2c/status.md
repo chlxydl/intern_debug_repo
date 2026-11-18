@@ -10,3 +10,5 @@
 | PR | https://github.com/chlxydl/intern_debug_repo/pull/158 |
 
 ## 最近进展
+
+已在 README 新增文档段落；`git diff --check` 通过。变更已推送至 PR #158，等待审查与合并。
