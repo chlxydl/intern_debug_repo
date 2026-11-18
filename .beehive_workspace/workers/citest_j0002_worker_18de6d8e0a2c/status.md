@@ -1,6 +1,6 @@
 # citest_j0002_worker_18de6d8e0a2c - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_j0002_18de6d8e0a2c,PR=https://github.com/chlxydl/intern_debug_repo/pull/158 -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
@@ -11,4 +11,4 @@
 
 ## 最近进展
 
-已在 README 新增文档段落；`git diff --check` 通过。变更已推送至 PR #158，等待审查与合并。
+任务已合并并完成收尾，Worker 已恢复 Idle，可接受下一项工作。
