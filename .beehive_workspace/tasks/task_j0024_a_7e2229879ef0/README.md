@@ -1,6 +1,6 @@
 # task_j0024_a_7e2229879ef0
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_j0024_7e2229879ef0_worker_1 -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_j0024_7e2229879ef0_worker_1 -->
 
 ## 目标
 
