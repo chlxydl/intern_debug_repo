@@ -1,6 +1,6 @@
 # 任务历史
 
-<!-- METADATA:SESSION=2 -->
+<!-- METADATA:SESSION=3 -->
 
 任务已创建，并分配给 `citest_j0013_main_58c981b6cf0b`。
 
@@ -15,3 +15,8 @@
 
 - 执行一次普通 Working 检查点，重新核验任务分支、产物内容及 Pull Request #160 的托管状态。
 - 未改动产品产物，保持任务 InProgress、Worker Working、Pull Request #160 OPEN，且未执行合并或关闭。
+
+## Session 3
+
+- 收到当前精确任务的明确集成许可；最终审查确认产物内容、提交范围及 Pull Request #160 的可合并状态均符合要求。
+- 将任务标记为 Completed、Worker 切换为 Idle，并通过 Pull Request #160 的 squash merge 完成交付和正常移交。
