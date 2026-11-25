@@ -1,6 +1,6 @@
 # citest_c0002_worker_fd9a79301948 - 状态
 
-<!-- METADATA:STATUS=Idle,TASK=,PR= -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
