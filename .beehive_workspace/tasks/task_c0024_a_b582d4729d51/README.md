@@ -1,6 +1,6 @@
 # Task C0024-A: Business Objective A
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_c0024_b582d4729d51_worker_1 -->
+<!-- METADATA:STATUS=ReadyForReview,ASSIGNEE=citest_c0024_b582d4729d51_worker_1 -->
 
 ## Overview
 
