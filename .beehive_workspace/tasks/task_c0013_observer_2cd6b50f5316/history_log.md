@@ -1,6 +1,6 @@
 # Task History
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 ## Session 0
 
@@ -10,3 +10,7 @@ Task created: add marker file `c0013_observer_2cd6b50f5316.txt` with observer id
 
 Accepted by citest_c0013_observer_2cd6b50f5316. Branch `citest_c0013_observer_2cd6b50f5316/task_c0013_observer_2cd6b50f5316`, PR https://github.com/chlxydl/intern_debug_repo/pull/193.
 - Checkpoint (2026-11-25): marker file `c0013_observer_2cd6b50f5316.txt` delivered on branch; PR #193 OPEN awaiting review; task remains Working (Stop-hook integration probe checkpoint).
+
+## Session 2 (2026-11-25)
+
+- Working checkpoint (Stop-hook format probe B): no product change; marker file remains on branch; PR #193 OPEN awaiting review.
