@@ -13,3 +13,4 @@
 
 - Accepted task_c0013_observer_0db035f131d6; implementing marker file on branch citest_c0013_observer_0db035f131d6/task_c0013_observer_0db035f131d6.
 - Marker file implemented and verified; PR ready for review, awaiting supervisor merge approval.
+- Session 2: Working checkpoint (authorized Stop-hook integration probe A); marker file re-verified, PR #204 OPEN, awaiting supervisor merge approval.
