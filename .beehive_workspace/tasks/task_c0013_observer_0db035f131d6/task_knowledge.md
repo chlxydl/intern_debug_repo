@@ -4,7 +4,7 @@
 
 ## Implementation Notes
 
-Single marker file at repository root.
+Single marker file at repository root with exact content BEEHIVE_CI_C0013_OBSERVER_0DB035F131D6 (no trailing newline).
 
 ## Delivery
 
