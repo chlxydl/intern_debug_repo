@@ -1,6 +1,6 @@
 # Task History
 
-<!-- METADATA:SESSION=2 -->
+<!-- METADATA:SESSION=3 -->
 
 ## Session 0
 
@@ -13,3 +13,7 @@ Accepted by citest_c0013_observer_eddd8fe56ab3 on branch citest_c0013_observer_e
 ## Session 2
 
 Working checkpoint (authorized Stop-hook integration probe). No product change; PR #198 remains OPEN, task remains InProgress.
+
+## Session 3
+
+Working checkpoint (authorized Stop-hook integration probe B). No product change; PR #198 remains OPEN, task remains InProgress.
