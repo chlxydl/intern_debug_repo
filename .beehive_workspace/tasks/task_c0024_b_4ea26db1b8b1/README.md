@@ -1,6 +1,6 @@
 # Task B: Business Objective B
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_c0024_4ea26db1b8b1_worker_2 -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_c0024_4ea26db1b8b1_worker_2 -->
 
 ## Objective
 Deliver business work for assignment B.
