@@ -1,6 +1,6 @@
 # task_c0013_observer_033137d77cb4
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_c0013_observer_033137d77cb4 -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_c0013_observer_033137d77cb4 -->
 
 ## Task Description
 
