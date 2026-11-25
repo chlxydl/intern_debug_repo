@@ -1,6 +1,6 @@
 # Task Knowledge for task_c0024_a_4ea26db1b8b1
 
-<!-- METADATA:SESSION=0 -->
+<!-- METADATA:SESSION=1 -->
 
 ## Context
 Task A assignment with specific deliverable requirements.
