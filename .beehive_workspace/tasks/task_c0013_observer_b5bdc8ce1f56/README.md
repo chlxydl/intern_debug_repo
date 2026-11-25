@@ -1,6 +1,6 @@
 # task_c0013_observer_b5bdc8ce1f56
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_c0013_observer_b5bdc8ce1f56 -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_c0013_observer_b5bdc8ce1f56 -->
 
 ## Task Description
 
