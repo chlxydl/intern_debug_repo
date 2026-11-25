@@ -1,6 +1,6 @@
 # task_c0024_a_e4980f0db8b3
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_c0024_e4980f0db8b3_worker_1 -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_c0024_e4980f0db8b3_worker_1 -->
 
 Implement the independent A business objective from the shared business baseline (master f0ab30e1a07ba3338bf746f24a5095cfdd311054). Assignee: exactly citest_c0024_e4980f0db8b3_worker_1.
 
@@ -15,3 +15,7 @@ Implement the independent A business objective from the shared business baseline
 ## Boundaries
 - No integration/merge is authorized in this round; do not merge or close.
 - Do not touch the other task's files.
+
+## Progress
+- Branch: citest_c0024_e4980f0db8b3_worker_1/task_c0024_a_e4980f0db8b3
+- PR: https://github.com/chlxydl/intern_debug_repo/pull/203
