@@ -1,6 +1,6 @@
 # task_c0024_a_b7db30dd883c
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_c0024_b7db30dd883c_worker_1 -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_c0024_b7db30dd883c_worker_1 -->
 
 ## 目标
 
