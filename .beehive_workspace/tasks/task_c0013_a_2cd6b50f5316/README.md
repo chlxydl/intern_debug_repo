@@ -1,6 +1,6 @@
 # task_c0013_a_2cd6b50f5316
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_c0013_main_2cd6b50f5316 -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_c0013_main_2cd6b50f5316 -->
 
 ## Task Description
 
