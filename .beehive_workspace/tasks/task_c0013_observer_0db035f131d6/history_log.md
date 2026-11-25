@@ -1,6 +1,6 @@
 # Task History
 
-<!-- METADATA:SESSION=2 -->
+<!-- METADATA:SESSION=3 -->
 
 ## Session 0
 
@@ -15,3 +15,7 @@ Added c0013_observer_0db035f131d6.txt (byte-for-byte verified, no trailing newli
 ## Session 2
 
 Working checkpoint (authorized Stop-hook integration probe A). Marker file re-verified; no product change. PR #204 remains OPEN, task remains InProgress.
+
+## Session 3
+
+Working checkpoint (authorized Stop-hook integration probe B). Marker file re-verified; no product change. PR #204 remains OPEN, task remains InProgress.
