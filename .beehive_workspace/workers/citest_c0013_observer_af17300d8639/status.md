@@ -13,3 +13,4 @@
 
 - 2026-11-25: accepted task_c0013_observer_af17300d8639; PR https://github.com/chlxydl/intern_debug_repo/pull/181.
 - 2026-11-25: Session 2 Working checkpoint (Stop-hook integration probe); delivery unchanged, PR #181 OPEN.
+- 2026-11-25: Session 3 Working checkpoint (Stop-hook integration probe B); delivery unchanged, PR #181 OPEN.

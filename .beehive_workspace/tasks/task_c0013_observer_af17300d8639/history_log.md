@@ -1,6 +1,6 @@
 # history_log
 
-<!-- METADATA:SESSION=2 -->
+<!-- METADATA:SESSION=3 -->
 
 ## 2026-11-25
 
@@ -13,3 +13,7 @@ Accepted by citest_c0013_observer_af17300d8639 on branch citest_c0013_observer_a
 ## 2026-11-25 Session 2
 
 Ordinary Working checkpoint (authorized Stop-hook integration probe). No product change; PR #181 remains OPEN awaiting merge approval.
+
+## 2026-11-25 Session 3
+
+Ordinary Working checkpoint (authorized Stop-hook integration probe B). No product change; PR #181 remains OPEN awaiting merge approval.
