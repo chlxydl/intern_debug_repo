@@ -1,6 +1,6 @@
 # task_c0013_observer_2751bfee5260
 
-<!-- METADATA:STATUS=Open,ASSIGNEE= -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_c0013_observer_2751bfee5260 -->
 
 ## 任务描述
 
