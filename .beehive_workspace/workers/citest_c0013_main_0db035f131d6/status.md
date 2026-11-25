@@ -1,14 +1,13 @@
 # citest_c0013_main_0db035f131d6 - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_c0013_b_0db035f131d6,PR=https://github.com/chlxydl/intern_debug_repo/pull/206 -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | citest_c0013_main_0db035f131d6 |
-| Status | Working |
-| Current Task | task_c0013_b_0db035f131d6 |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/206 |
+| Status | Idle |
+| Current Task |  |
+| PR | N/A |
 
 ## 最近进展
-- 2026-11-25 Accepted task task_c0013_b_0db035f131d6; PR #206 created
-- 2026-11-25 Session 2: Working checkpoint (Stop-hook format probe); artifact on PR #206, kept OPEN for review
+- 2026-11-25 Session 3: supervisor approved; task_c0013_b_0db035f131d6 squash-merged into master via PR #206; task Completed, back to Idle
