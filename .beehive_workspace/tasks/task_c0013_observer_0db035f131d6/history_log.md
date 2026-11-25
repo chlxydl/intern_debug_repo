@@ -1,6 +1,6 @@
 # Task History
 
-<!-- METADATA:SESSION=3 -->
+<!-- METADATA:SESSION=4 -->
 
 ## Session 0
 
@@ -19,3 +19,7 @@ Working checkpoint (authorized Stop-hook integration probe A). Marker file re-ve
 ## Session 3
 
 Working checkpoint (authorized Stop-hook integration probe B). Marker file re-verified; no product change. PR #204 remains OPEN, task remains InProgress.
+
+## Session 4
+
+Supervisor approved integration. Reviewed the PR diff, re-verified the marker file, set task Completed and worker Idle for squash merge of PR #204 into master.
