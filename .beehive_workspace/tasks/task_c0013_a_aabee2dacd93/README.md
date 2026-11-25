@@ -1,6 +1,6 @@
 # task_c0013_a_aabee2dacd93
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_c0013_main_aabee2dacd93 -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_c0013_main_aabee2dacd93 -->
 
 ## Task Description
 
