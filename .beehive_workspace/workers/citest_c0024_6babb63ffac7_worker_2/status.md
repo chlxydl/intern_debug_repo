@@ -1,13 +1,13 @@
 # citest_c0024_6babb63ffac7_worker_2 - 状态
 
-<!-- METADATA:STATUS=Working,TASK=task_c0024_b_6babb63ffac7,PR=https://github.com/chlxydl/intern_debug_repo/pull/215 -->
+<!-- METADATA:STATUS=Idle,TASK=,PR=N/A -->
 
 | 字段 | 值 |
 |------|-----|
 | Name | citest_c0024_6babb63ffac7_worker_2 |
-| Status | Working |
-| Current Task | task_c0024_b_6babb63ffac7 |
-| PR | https://github.com/chlxydl/intern_debug_repo/pull/215 |
+| Status | Idle |
+| Current Task |  |
+| PR | N/A |
 
 ## 最近进展
-- 2026-11-25: 接受 task_c0024_b_6babb63ffac7（lead 分配），建分支与 PR #215。
+- 2026-11-25: task_c0024_b_6babb63ffac7 经 lead 授权合并（PR #215，A 后 B 顺序，已适配 master a5a7ba9），任务 Completed，回到 Idle。
