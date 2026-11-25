@@ -1,6 +1,6 @@
 # history_log
 
-<!-- METADATA:SESSION=2 -->
+<!-- METADATA:SESSION=3 -->
 
 ## 2026-11-25
 
@@ -13,3 +13,7 @@ Accepted by citest_c0013_main_af17300d8639 on branch citest_c0013_main_af17300d8
 ## 2026-11-25 Session 2
 
 Ordinary Working checkpoint (Stop-hook integration probe). Session 1 delivered c0013_a_af17300d8639.txt (a3752b0, exact 40 bytes). No product change this session; PR #182 remains OPEN awaiting merge approval.
+
+## 2026-11-25 Session 3
+
+Supervisor authorized integration. Reviewed delivery (content exact, 40 bytes, no trailing newline); PR #182 squash merge into master; task Completed; worker returned to Idle.

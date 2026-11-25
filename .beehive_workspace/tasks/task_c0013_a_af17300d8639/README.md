@@ -1,6 +1,6 @@
 # task_c0013_a_af17300d8639
 
-<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_c0013_main_af17300d8639 -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_c0013_main_af17300d8639 -->
 
 ## 任务描述
 
