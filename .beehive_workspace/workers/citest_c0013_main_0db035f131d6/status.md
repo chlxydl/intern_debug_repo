@@ -11,3 +11,4 @@
 
 ## 最近进展
 - 2026-11-25 接受任务 task_c0013_a_0db035f131d6，PR #205 已创建
+- 2026-11-25 Session 2：Working checkpoint（Stop-hook 格式探针），产物已在 PR #205，保持 OPEN 待 review
