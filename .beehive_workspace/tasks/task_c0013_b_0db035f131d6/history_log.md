@@ -1,6 +1,6 @@
 # History Log
 
-<!-- METADATA:SESSION=1 -->
+<!-- METADATA:SESSION=2 -->
 
 ## 2026-11-25
 
@@ -11,3 +11,7 @@ Task accepted by citest_c0013_main_0db035f131d6; PR: https://github.com/chlxydl/
 ## Session 1 (2026-11-25)
 
 - Artifact c0013_b_0db035f131d6.txt committed on task branch; PR #206 OPEN awaiting review. Task stays Working/InProgress; not merged.
+
+## Session 2 (2026-11-25)
+
+- Working checkpoint for authorized Stop-hook format probe; artifact unchanged, PR #206 remains OPEN awaiting review. Task stays Working/InProgress.

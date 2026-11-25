@@ -11,3 +11,4 @@
 
 ## 最近进展
 - 2026-11-25 Accepted task task_c0013_b_0db035f131d6; PR #206 created
+- 2026-11-25 Session 2: Working checkpoint (Stop-hook format probe); artifact on PR #206, kept OPEN for review
