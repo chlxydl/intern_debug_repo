@@ -1,6 +1,6 @@
 # Task History
 
-<!-- METADATA:SESSION=3 -->
+<!-- METADATA:SESSION=4 -->
 
 ## Session 0
 
@@ -17,3 +17,7 @@ Working checkpoint (authorized Stop-hook integration probe). No product change; 
 ## Session 3
 
 Working checkpoint (authorized Stop-hook integration probe B). No product change; PR #198 remains OPEN, task remains InProgress.
+
+## Session 4
+
+Supervisor approved merge. Verified marker file content, set task Completed, squash-merged PR #198 into master, worker returned to Idle.
