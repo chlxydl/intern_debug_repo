@@ -1,6 +1,6 @@
 # task_c0024_a_6a442e526e6f
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_c0024_6a442e526e6f_worker_1 -->
+<!-- METADATA:STATUS=Completed,ASSIGNEE=citest_c0024_6a442e526e6f_worker_1 -->
 
 ## 目标
 Implement the independent A business objective from the shared business baseline (master 0e12d0e4679491604471fa46811f2ad613616c0e).
