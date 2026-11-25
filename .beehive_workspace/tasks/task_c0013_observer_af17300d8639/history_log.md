@@ -1,6 +1,6 @@
 # history_log
 
-<!-- METADATA:SESSION=3 -->
+<!-- METADATA:SESSION=4 -->
 
 ## 2026-11-25
 
@@ -17,3 +17,7 @@ Ordinary Working checkpoint (authorized Stop-hook integration probe). No product
 ## 2026-11-25 Session 3
 
 Ordinary Working checkpoint (authorized Stop-hook integration probe B). No product change; PR #181 remains OPEN awaiting merge approval.
+
+## 2026-11-25 Session 4
+
+Supervisor authorized integration. Reviewed delivery (file content exact, 38 bytes, no trailing newline; only business file plus own task metadata in diff). Closeout metadata recorded for squash merge of PR #181 into master: task Completed, worker Idle.
