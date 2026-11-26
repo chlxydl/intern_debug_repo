@@ -1,6 +1,6 @@
 # task_c0024_a_b2b094a3a016
 
-<!-- METADATA:STATUS=Open,ASSIGNEE=citest_c0024_b2b094a3a016_worker_1 -->
+<!-- METADATA:STATUS=InProgress,ASSIGNEE=citest_c0024_b2b094a3a016_worker_1 -->
 
 ## 目标
 Implement the independent A business objective from the shared business baseline (master cfbf06d94d6f96e01a76de2b9fa1e5236668554f). Only modify the business file `c0024-a-b2b094a3a016.txt`. The file must contain `C0024_ASSIGN_A_B2B094A3A016`.
