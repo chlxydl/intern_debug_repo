@@ -11,3 +11,4 @@
 
 ## 最近进展
 - 2026-11-26: 创建并接受 task_c0013_observer_7bb566440a2c，PR #218 已打开。
+- 2026-11-26: Session 2 Working checkpoint（授权的 Stop-hook 集成探针），无产品改动，PR #218 保持 OPEN。
