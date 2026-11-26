@@ -1,5 +1,5 @@
 # Task history
 
-<!-- METADATA:SESSION=0 -->
+<!-- METADATA:SESSION=1 -->
 
-Task definition published before Worker assignment.
+Task accepted by citest_c0002_worker_484d16ec07ad. PR #222 created. Beginning implementation.

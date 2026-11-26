@@ -1,5 +1,5 @@
 # Task knowledge
 
-<!-- METADATA:SESSION=0 -->
+<!-- METADATA:SESSION=1 -->
 
-N/A: initial task definition.
+Task requires adding a documentation paragraph to the repository and running documentation build checks (c0002_484d16ec07ad).
