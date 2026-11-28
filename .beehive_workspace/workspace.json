@@ -2,13 +2,13 @@
   "kind": "workspace",
   "version": 2,
   "schema": "beehive.workspace.v2",
-  "workspace_alias": "ci_j0002_4a0a6408bcf0",
-  "display_name": "citest_j0002_20261128_161500_baseline_be5f6b0b9d",
+  "workspace_alias": "ci_j0002_4e0466c04a7b",
+  "display_name": "citest_j0002_20261128_161441_ca6c9721_7ccd4a43e9",
   "provider": "github",
   "provider_binding": {
     "provider": "github",
-    "workspace_alias": "ci_j0002_4a0a6408bcf0",
-    "repo_root": "/opt/beehive-ci/state/state/v1/ci_j0002_4a0a6408bcf0/source",
+    "workspace_alias": "ci_j0002_4e0466c04a7b",
+    "repo_root": "/ci-state/beehive/state/v1/ci_j0002_4e0466c04a7b/source",
     "remote_name": "remote-0",
     "remote_url": "git@github.com:chlxydl/intern_debug_repo.git",
     "binding_ref": "github:chlxydl/intern_debug_repo",
@@ -63,7 +63,7 @@
   "repo_url": "git@github.com:chlxydl/intern_debug_repo.git",
   "source_kind": "remote",
   "source_address": "git@github.com:chlxydl/intern_debug_repo.git",
-  "local_path": "/opt/beehive-ci/state/state/v1/ci_j0002_4a0a6408bcf0/source",
+  "local_path": "/ci-state/beehive/state/v1/ci_j0002_4e0466c04a7b/source",
   "metadata_mode": "repo_dotdir",
   "metadata_branch": "",
   "metadata_cache_path": "",
@@ -71,6 +71,6 @@
   "user_visible": true,
   "local_enabled": true,
   "generation": 1,
-  "repo_root": "/opt/beehive-ci/state/state/v1/ci_j0002_4a0a6408bcf0/source",
-  "metadata_path": "/opt/beehive-ci/state/state/v1/ci_j0002_4a0a6408bcf0/source/.beehive_workspace"
+  "repo_root": "/ci-state/beehive/state/v1/ci_j0002_4e0466c04a7b/source",
+  "metadata_path": "/ci-state/beehive/state/v1/ci_j0002_4e0466c04a7b/source/.beehive_workspace"
 }
