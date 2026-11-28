@@ -3,13 +3,13 @@
   "version": 1,
   "workspace_alias": "ci_f0011_dotdir_94b997004622",
   "name": "citest_c0024_805c6cb9666d",
-  "status": "active",
+  "status": "deleted",
   "team_lead": "citest_c0024_805c6cb9666d_lead",
   "workers": [
     "citest_c0024_805c6cb9666d_worker_1",
     "citest_c0024_805c6cb9666d_worker_2"
   ],
   "created_at": "2026-11-28T12:33:30+00:00",
-  "updated_at": "2026-11-28T12:33:30+00:00",
-  "generation": 1
+  "updated_at": "2026-11-28T12:49:26+00:00",
+  "generation": 2
 }
