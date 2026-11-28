@@ -1,5 +1,7 @@
 # Task knowledge
 
-<!-- METADATA:SESSION=0 -->
+<!-- METADATA:SESSION=1 -->
 
 N/A: initial task definition.
+
+The repository keeps its documentation in the root README.md. The requested build check is `git diff --check`.
