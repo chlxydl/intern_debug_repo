@@ -12,3 +12,4 @@
 ## 最近进展
 
 - 2026-11-28: 创建并接受 task_c0013_observer_84f5fa1713d7，PR #232 已创建。
+- 2026-11-28: Session 2 Working checkpoint（授权 Stop-hook 集成探测），无产品改动，PR #232 保持 OPEN。
